@@ -5,4 +5,4 @@
 * dar respuesta
 * fin
 
-![Sin titulo](img/ej1.jpg)
+![Sin titulo](img/eje1.jpg)
